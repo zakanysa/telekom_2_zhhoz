@@ -1,0 +1,64 @@
+Mit jelent az AF_INET paraméter?
+Mikor kell a recv() függvényt alkalmazni?
+Mit csinál a socket() függvény?
+Mi a különbség a SOCK_STREAM és SOCK_DGRAM között?
+Mit jelent a bind() művelet?
+Mire szolgál a listen() függvény?
+Mit csinál az accept() függvény?
+Mikor használjuk a connect() függvényt?
+Mi a sendall() függvény előnye a send()-del szemben?
+Mit jelent a socket timeout?
+Mire való a settimeout() függvény?
+Mi történik, ha a recv() 0 byte-ot ad vissza?
+Mit csinál a close() függvény?
+Mi a localhost jelentése?
+Mit jelent a port szám?
+Mi az IP cím szerepe?
+Mi a kliens-szerver architektúra?
+Mit jelent a "blocking" socket művelet?
+Hogyan hozunk létre TCP socketet?
+Mi a TCP szerver helyes sorrendje?
+Mi a TCP kliens helyes sorrendje?
+Mit jelent a SO_REUSEADDR opció?
+Hogyan állítjuk be a SO_REUSEADDR opciót?
+Mi történik, ha a listen() paraméter 1?
+Hogyan küldünk bináris adatokat TCP-n?
+Mi a struct modul szerepe socket programozásban?
+Hogyan kezeljük a többszörös kliens kapcsolatokat?
+Mi a with statement előnye socket programozásban?
+Hogyan olvassunk és küldjünk fájlt TCP-n hatékonyan?
+Mit csinál a struct.pack()?
+Mit csinál a struct.unpack()?
+Mi a 'f f 1s' formátum jelentése struct-ban?
+Hogyan kezeljük a részleges adatküldést TCP-ben?
+Mi történik accept() után TCP szerveren?
+Hogyan zárjuk be helyesen a kliens kapcsolatot a TCP szerveren?
+Mi a különbség a server socket és client socket között TCP-ben?
+Hogyan működik a fájlküldés TCP-vel?
+Mit jelent a ('localhost', 10000) pár?
+Hogyan hozunk létre UDP socketet?
+Mi a fő különbség UDP és TCP között?
+Mit csinál a sendto() függvény?
+Mit ad vissza a recvfrom() függvény?
+Kell-e connect() UDP kliensnél?
+Kell-e listen() UDP szervernél?
+Mi az UDP szerver alapvető sorrendje?
+Mi az UDP kliens alapvető sorrendje?
+Mit ad vissza a recvfrom() pontosan?
+Milyen paramétereket vár a sendto()?
+Mi a UDP datagram elméleti maximális mérete?
+Mi történik, ha UDP csomag elvész?
+Mi a timeout szerepe UDP-nél?
+Kell-e bind() az UDP kliensnek?
+Mit jelent az "I I 1s" struct formátum?
+Hogyan kezeljük a timeout kivételt UDP-nél?
+Mi a fő különbség TCP és UDP file küldés között?
+Mi a proxy szerver szerepe?
+Mit csinál a select() függvény?
+Mik a select() visszatérési értékei?
+Hogyan szűrhetjük a HTTP kéréseket proxy-ban?
+Mit jelent a 404 HTTP státuszkód?
+Mi történik, ha select() timeout-ol?
+Mikor dobódik socket.timeout kivétel?
+Hogyan detektáljuk a kapcsolat megszakadást TCP-ben?
+Mi a leggyakoribb oka a bind() sikertelenségének?
